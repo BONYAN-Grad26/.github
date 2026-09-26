@@ -11,28 +11,25 @@ Maintaining a healthy lifestyle shouldn't feel like a second job. Bonyaan unifie
 
 ## 🎥 See Bonyaan in Action
 
-
 https://github.com/user-attachments/assets/84ebb6c9-3835-46de-a21f-e5139654e366
-
-
 
 ## 🛠️ The Ecosystem
 
 Bonyaan is built using a modern, scalable microservice architecture. Here are the core repositories that power our system:
 
-### 📱 [Bonyan-Mobile-App](https://github.com/Organization-Name/Bonyan-Mobile-App)
+### 📱 [Bonyan-Mobile-App](https://github.com/BONYAN-Grad26/Bonyan-Mobile-App)
 The primary user interface built with **Flutter**. It delivers a seamless native experience for managing health profiles, viewing AI-generated meal and workout plans, and interacting with our smart features like the gym machine scanner and AI chatbot.
 
-### 🌐 [Bonyan-Frontend](https://github.com/Organization-Name/Bonyan-Frontend)
+### 🌐 [Bonyan-Frontend](https://github.com/BONYAN-Grad26/Bonyan-Frontend)
 A responsive web application built with **Next.js**, **React**, and **TailwindCSS**. It provides web access to Bonyaan's core features with an intuitive, accessible, and fast UI.
 
-### ⚙️ [MetriPlan-API](https://github.com/Organization-Name/MetriPlan-API)
-The central backend service built with **Java Spring Boot**. It handles user authentication (JWT), database management (MySQL), and acts as the main gateway orchestrating requests between the client frontends and our AI microservices.
+### ⚙️ [MetriPlan-API](https://github.com/BONYAN-Grad26/MetriPlan-API)
+The central backend service built with **Java Spring Boot**. It handles user authentication (JWT), database management (PostgreSQL), and acts as the main gateway orchestrating requests between the client frontends and our AI microservices.
 
 ### 🧠 AI & Machine Learning Services
 We employ specialized Python microservices to power Bonyaan's intelligent features:
-- **[Meal_Suggest](https://github.com/Organization-Name/Meal_Suggest):** A **FastAPI** service featuring computer vision. It analyzes photos of raw ingredients (like beef and potatoes) and instantly suggests healthy recipes and tailored meals.
-- **[Bonyan-Chatbot](https://github.com/Organization-Name/Bonyan-Chatbot):** A conversational NLP assistant that provides dietary advice, modifies workout/meal plans on the fly, and answers health-related queries in multiple languages (including Arabic and English).
+- **[Bonyan-Reciepe-Generation](https://github.com/BONYAN-Grad26/Bonyan-Reciepe-Generation):** A **FastAPI** service featuring computer vision. It analyzes photos of raw ingredients (like beef and potatoes) and instantly suggests healthy recipes and tailored meals.
+- **[Bonyan-Chatbot](https://github.com/BONYAN-Grad26/Bonyan-Chatbot):** A conversational NLP assistant that provides dietary advice, modifies workout/meal plans on the fly, and answers health-related queries in multiple languages (including Arabic and English).
 
 ## ✨ Key Features
 
@@ -51,4 +48,3 @@ By integrating mobile development, web technologies, backend microservices, and 
 <div align="center">
   <i>Empowering your health journey through Artificial Intelligence.</i>
 </div>
-
