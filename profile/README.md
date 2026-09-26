@@ -11,7 +11,6 @@ Maintaining a healthy lifestyle shouldn't feel like a second job. Bonyaan unifie
 
 ## 🎥 See Bonyaan in Action
 
-<video src="
 
 https://github.com/user-attachments/assets/84ebb6c9-3835-46de-a21f-e5139654e366
 
